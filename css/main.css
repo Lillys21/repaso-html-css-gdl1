@@ -1,12 +1,23 @@
-/* body {
+body {
+
+  background-color: #BDBDBD;
+  box-sizing: border-box;
 }
 header,footer{
+  background-color: #585858;
+  color: #FFFFFF;
+  text-align: center;
+  height: 20vh;
+  vertical-align: middle;
 }
 h1,h2{
+font-family: sans-serif;
 }
 main{
+  margin: auto;
 }
 header{
+  margin: 0em 0em 1em 0em;
 }
 .row{
     width: 100%;
@@ -15,6 +26,12 @@ header{
     display: block;
 }
 .column {
+  background-color: #FE2E2E;
+  color: floralwhite;
+  display: inline-block;
+  height: 20vh;
+  margin: 1px;
+  width: 20%;
 }
-#footer {
+/*#footer {
 } */
